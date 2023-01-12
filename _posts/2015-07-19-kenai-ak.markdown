@@ -1,0 +1,13 @@
+---
+layout: post
+title:  Loving Alaska's Kenai Peninsula
+description: Loving Alaska's Kenai Peninsula...
+date: 2015-07-19 15:18:00 +0300
+image:  'https://farm1.staticflickr.com/307/18579284081_fdaeca01e9_c.jpg'
+tags:   ["2015", "alaska"]
+---
+<p>Loving Alaska's Kenai Peninsula</p>
+<p>[flickr]</p>
+<p>Dates: June 7th - June 16th<br>
+RV Park: <a href="http://www.diamondmranchresort.com">Diamond M Ranch Resort</a>, Kenai, AK</p>
+
